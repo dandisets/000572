@@ -35,7 +35,7 @@ assetsSummary:
   - ElectrodeGroup
   - Units
 citation: Activity map of a cortico-cerebellar loop underlying motor planning (2023).
-  (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000572/draft
+  (Version 0.230826.0140) [Data set]. DANDI archive. https://doi.org/10.48324/dandi.000572/0.230826.0140
 contributor:
 - affiliation: []
   awardNumber: 1 R01 NS 112312-01
@@ -60,14 +60,15 @@ description: 'Data from "Activity map of a cortico-cerebellar loop underlying mo
   NS113110, McKnight Foundation, Simons Collaboration on the Global Brain.
 
   '
+doi: 10.48324/dandi.000572/0.230826.0140
 ethicsApproval: []
-id: DANDI:000572/draft
+id: DANDI:000572/0.230826.0140
 identifier: DANDI:000572
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000572/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000572/0.230826.0140/assets.yaml
 name: Activity map of a cortico-cerebellar loop underlying motor planning
 protocol: []
 publishedBy:
@@ -89,6 +90,6 @@ schemaVersion: 0.6.4
 studyTarget:
 - An activity map of the cerebellar cortex during a delayed response task in which
   mice used short-term memory to plan directional licking.
-url: https://dandiarchive.org/dandiset/000572/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000572/0.230826.0140
+version: 0.230826.0140
 wasGeneratedBy: []
