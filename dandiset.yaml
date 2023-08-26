@@ -21,8 +21,8 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: surgical technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 310520706062
-  numberOfFiles: 286
+  numberOfBytes: 311812040462
+  numberOfFiles: 289
   numberOfSubjects: 37
   schemaKey: AssetsSummary
   species:
@@ -35,15 +35,17 @@ assetsSummary:
   - ElectrodeGroup
   - Units
 citation: Activity map of a cortico-cerebellar loop underlying motor planning (2023).
-  (Version draft) [Data set]. DANDI archive. https://doi.org/10.80507/dandi.123456/0.123456.1234
+  (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000572/draft
 contributor:
-- awardNumber: 1 R01 NS 112312-01
-  name: National Institutes of Health (NIH)
+- affiliation: []
+  awardNumber: 1 R01 NS 112312-01
+  includeInCitation: false
+  name: li, nuo
   roleName:
-  - dcite:Funder
-  schemaKey: Organization
+  - dcite:ContactPerson
+  schemaKey: Person
 dateCreated: '2023-07-03T20:17:43.540225+00:00'
-datePublished: '2023-08-19T08:09:05.203263+00:00'
+datePublished: '2023-08-26T01:40:31.941614+00:00'
 description: 'Data from "Activity map of a cortico-cerebellar loop underlying motor
   planning" Jia Zhu, Hana Hasanbegovic, Liu D. Liu, Zhenyu Gao, Nuo Li. Nat Neurosci
   2023
@@ -58,7 +60,6 @@ description: 'Data from "Activity map of a cortico-cerebellar loop underlying mo
   NS113110, McKnight Foundation, Simons Collaboration on the Global Brain.
 
   '
-doi: 10.80507/dandi.123456/0.123456.1234
 ethicsApproval: []
 id: DANDI:000572/draft
 identifier: DANDI:000572
@@ -70,13 +71,13 @@ manifestLocation:
 name: Activity map of a cortico-cerebellar loop underlying motor planning
 protocol: []
 publishedBy:
-  endDate: '2023-08-19T08:09:05.203263+00:00'
-  id: urn:uuid:de57670a-efd6-4e4c-87d7-903d0d5df92a
+  endDate: '2023-08-26T01:40:31.941614+00:00'
+  id: urn:uuid:2077e463-eb4c-46ef-a713-4640b9ff746f
   name: DANDI publish
   schemaKey: PublishActivity
-  startDate: '2023-08-19T08:09:05.203263+00:00'
+  startDate: '2023-08-26T01:40:31.941614+00:00'
   wasAssociatedWith:
-  - id: urn:uuid:96c45a0f-a561-4b68-8490-db54cd2c2e70
+  - id: urn:uuid:ba68c635-6267-4411-bf73-1bcbd573d922
     identifier: RRID:SCR_017571
     name: DANDI API
     schemaKey: Software
